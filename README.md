@@ -13,3 +13,18 @@
 </div>
 
 ###
+<div align="center">
+  <img height="400" src="https://github.com/gabrielroot/flexBlog/blob/main/img/printScreen.png?raw=true"  />
+</div>
+
+###
+<div align="center">
+  <img height="400" src="https://github.com/gabrielroot/flexBlog/blob/main/img/printScreen2.png?raw=true"  />
+</div>
+
+###
+<div align="center">
+  <img height="400" src="https://github.com/gabrielroot/flexBlog/blob/main/img/printScreen23.png?raw=true"  />
+</div>
+
+###
